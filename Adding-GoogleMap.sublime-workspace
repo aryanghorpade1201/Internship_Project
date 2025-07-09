@@ -1,0 +1,349 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bg-c",
+				"background-color"
+			],
+			[
+				"h",
+				"h2"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"ca",
+				"card-body"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"wh",
+				"white"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"m",
+				"margin-top"
+			],
+			[
+				"padding-b",
+				"padding-bottom"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"b",
+				"br"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"sp",
+				"span"
+			],
+			[
+				"btn-",
+				"btn-info"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"w",
+				"white"
+			],
+			[
+				"lim",
+				"limegreen"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"gre",
+				"greenyellow"
+			],
+			[
+				"siz",
+				"size"
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"lo",
+				"Location"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"re",
+				"red"
+			],
+			[
+				"bordertop",
+				"border-top-width"
+			],
+			[
+				"bordert",
+				"border-top-style"
+			],
+			[
+				"borderto",
+				"border-top-color"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"di",
+				"div"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Admin/Desktop/ANVI-WEBPAGE design.html/Menu-bar.html",
+		"/C/Users/Admin/Desktop/ANVI-WEBPAGE design.html/Project-WebPage Design.html",
+		"/C/Users/Admin/Desktop/ANVI-WEBPAGE design.html/FieldSet1.html",
+		"/C/Users/Admin/Desktop/ANVI-WEBPAGE design.html/Project-1.html",
+		"/C/Users/Admin/Desktop/ANVI-WEBPAGE design.html/Javascript.html",
+		"/C/Users/Admin/Desktop/ANVI-WEBPAGE design.html/Slider Example.html",
+		"/C/Users/Admin/Desktop/ANVI-WEBPAGE design.html/Slider-Ex.html",
+		"/C/Users/Admin/Desktop/ANVI-WEBPAGE design.html/Login-form.html",
+		"/C/Users/Admin/Desktop/ANVI-WEBPAGE design.html/card coantainer.html",
+		"/C/Users/Admin/Desktop/ANVI-WEBPAGE design.html/Bootstrap-Using grid system for E-Commerce Look.html",
+		"/C/Users/Admin/Desktop/ANVI-WEBPAGE design.html/Dashboard-Using GridSystem.html",
+		"/C/Users/Admin/Desktop/ANVI-WEBPAGE design.html/Dashboard-Using-CSS.html",
+		"/C/Users/Admin/Desktop/ANVI-WEBPAGE design.html/.html",
+		"/C/Users/Admin/Desktop/ANVI-WEBPAGE design.html/Test-Batch.html",
+		"/C/Users/Admin/Desktop/ANVI-WEBPAGE design.html/Table-Effect.html",
+		"/C/Users/Admin/Desktop/ANVI-WEBPAGE design.html/Button-Effect.html",
+		"/C/Users/Admin/Desktop/ANVI-WEBPAGE design.html/Self-Study.html",
+		"/C/Users/Admin/Desktop/ANVI-WEBPAGE design.html/alokh.html",
+		"/C/Users/Admin/Desktop/ANVI-WEBPAGE design.html/Text-Grid.html",
+		"/C/Users/Admin/Desktop/ANVI-WEBPAGE design.html/Webpage.html",
+		"/C/Users/Admin/Desktop/ANVI-WEBPAGE design.html/Dashboard1.html",
+		"/C/Users/Admin/Desktop/ANVI-WEBPAGE design.html/Dashboard.html",
+		"/C/Users/Admin/Desktop/ANVI-WEBPAGE design.html/Login-Page.html",
+		"/C/Users/Admin/Desktop/ANVI-WEBPAGE design.html/FieldSet3.html",
+		"/C/Users/Admin/Desktop/ANVI-WEBPAGE design.html/FieldSet2.html",
+		"/C/Users/Admin/Desktop/ANVI-WEBPAGE design.html/Two-Dic(CSS).html",
+		"/C/Users/Admin/Desktop/ANVI-WEBPAGE design.html/Adding-GoogleMap.html",
+		"/C/Users/Admin/Desktop/ANVI-WEBPAGE design.html/FieldSet.html",
+		"/C/Users/Admin/Desktop/ANVI-WEBPAGE design.html/Link_imp[1].html",
+		"/C/Users/Admin/Desktop/ANVI-WEBPAGE design.html/Ordered-list.html",
+		"/C/Users/Admin/Desktop/ANVI-WEBPAGE design.html/UnOrder-List.html",
+		"/C/Users/Admin/Desktop/ANVI-WEBPAGE design.html/Order-List.html",
+		"/C/Users/Admin/Desktop/ANVI-WEBPAGE design.html/Adding-Image.html",
+		"/C/Users/Admin/Desktop/ANVI-WEBPAGE design.html/anvi.html",
+		"/C/Users/Admin/Desktop/ANVI-WEBPAGE design.html/Dashboard",
+		"/C/Users/Admin/Desktop/ANVI-WEBPAGE design.html/Bday-Card.htl.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "",
+	"project": "Adding-GoogleMap.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

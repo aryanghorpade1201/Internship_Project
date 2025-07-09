@@ -1,0 +1,88 @@
+	Table Tag  
+	------------
+	This Tag is used to display data in tabular format.
+
+                 There are 3  element  which is used to design table on web page.
+
+                     1)  table Heading  <th>
+                     2)   table row     <tr>
+                     3)   table data   <td>
+
+                     Attributes of <Table> tag
+                  -----------------------------------
+                        1)cellpadding=number : It will increase space inside cell.    [    <-->  ]
+
+                        2)cellspacing =number  : It will increase  space between two cells.    [ Amol ] <-->  [Amit ]
+   
+                        3)border=number :  It will set border  to table .
+
+                         4) width=Number :  We can set width to table on web page.
+
+                         5) align="left/right/center" :  we can align   table data  on web page.
+
+                         6)bgcolor=colorName :   It will set background color to table, td, th, tr.
+
+                          7) rowspan :   It will merge  two or more rows inside the table.
+
+                          8) colspan  :  It will merge  two or more   column inside the table.
+
+                           Practical  Task-Code 
+                           --------------------------
+                          <html>
+<head>
+	<title>www.mit.com</title>
+</head>
+<body>
+    <center>
+    	   <h1>MIT College Student</h1>
+    </center>
+
+     <hr  color="deeppink" size="3">
+     
+     <table border="1" cellpadding="10" align="center">
+     	 <tr>
+     	 	 <th>SrNo</th>
+     	 	 <th>RollNo</th>
+     	 	 <th>Name</th>
+     	 	 <th>Team</th> 
+     	 </tr>
+     	 <tr>
+     	 	 <td>1</td>
+     	 	 <td>1001</td>
+     	 	 <td>John</td>
+     	 	 <td>Red</td>
+     	 </tr>
+     	 <tr>
+     	 	 <td>2</td>
+     	 	 <td>1002</td>
+     	 	 <td>Peter</td>
+     	 	 <td>Blue</td>
+     	 </tr>
+     	 <tr>
+     	 	 <td>3</td>
+     	 	 <td>1003</td>
+     	 	 <td>Henry</td>
+     	 	 <td>Green</td>
+     	 </tr>
+     	 <tr>
+     	 	 <td colspan="3" align="right">Total Student</td>
+     	 	 <td>3</td>
+     	 </tr>
+     	 <tr bgcolor="gold">
+     	 	   <td colspan="4" align="center">
+     	 	      <h3 style="color:deeppink;"> Thank you </h3>
+     	 	   </td>
+     	 </tr>
+     </table>       
+</body>
+</html>
+ 
+
+                  
+
+
+
+
+
+
+

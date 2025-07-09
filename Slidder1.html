@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Slide Up & Down</title>
+	  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js">
+</script>
+  <script>
+  	$(document).ready(function()
+  	{
+  		 // $("#data_id").hide();
+
+         $("#b1").click(function()
+         {
+               $("#data_id").slideDown(); 
+         })
+         $("#b2").click(function()
+         {
+               $("#data_id").slideUp(); 
+         })
+  	} )
+  </script>
+
+  <style>
+  	    #data_id{
+  	    	width: 60%; 
+  	    	margin-top: 30px;
+  	    	margin-left: 100px;
+  	    	padding: 20px;
+  	    	display: none;
+  	    }  
+  </style>
+
+</head>
+<body>
+
+<div class="container-fluid">
+	<img src="contact.jpg" width="100%" height="150px">
+</div>
+<div class="text-center">
+	<br><br><br>
+       <button class="btn btn-info" id="b1">Contact Us</button>
+</div>
+       <div id="data_id" class="jumbotron">
+       	  <form name="f1">
+       	  	<div class="form-group">
+       	  		<label>First Name</label>
+       	  		<input type="text" name="fname" class="form-control">
+       	  	</div>
+
+       	  	<div class="form-group">
+       	  		<label>Last Name</label>
+       	  		<input type="text" name="fname" class="form-control">
+       	  	</div>
+
+       	  	<div class="form-group">
+       	  		<label>Phone No</label>
+       	  		<input type="text" name="fname" class="form-control">
+       	  	</div>
+
+       	  	<div class="form-group">
+       	  		<label>Email ID</label>
+       	  		<input type="text" name="fname" class="form-control">
+       	  	</div>
+
+       	  	<button class="btn btn-info" id="b1">Sumit</button>
+       	  	<button class="btn btn-info" id="b1">Reset</button>
+       	  </form>
+       </div>
+</body>
+</html>

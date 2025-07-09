@@ -1,0 +1,219 @@
+
+
+                       Image Tag 
+                      ---------------
+                        We can add Image on web page, by using following syntax.
+
+                            Syntax:
+                           ------------
+                               <img src="imageName"   width=""   height="">
+                            
+                              here   Image Name can be   jpg, png,   gif  etc.
+
+                            
+
+          ProgramAddImage.html
+          ------------------------------
+          
+  <html>
+    <head>
+	    <title>Image Example</title>
+	    <style>
+		       body{
+			            background-image: url("pics/22.jpg");
+			            background-size: cover;
+		           }
+	     </style>
+    </head>
+
+    <body>
+        <center>
+        	  <h2> My Image Gallary </h2>
+        </center>
+
+        <hr color="deeppink" size="3">
+
+        <img src="pics/6.jpg" width="200" height="200">
+        <img src="pics/7.jpg" width="200" height="200">
+        <img src="pics/8.jpg" width="200" height="200">
+
+     </body>
+</html>
+
+                  List Tag
+                 -----------
+                    This tag is used to add   data in sepcific order on web page.
+
+                     There are  two types of   List Tag.
+
+                          A) order list  tag
+                          B) unorder List  tag
+
+
+                           A) order list  tag
+                          ----------------------
+                               This tag can defined  by using following syntax.
+
+                                     Syntax :   
+
+                                                  <ol>
+                                                      <li>...............</li>
+                                                      <li>................</li>
+                                                 </ol>
+
+
+                                         here  ol  stands for  order list.
+                                                   li   stands for list item.
+
+                                        Attributes of <ol>  Tag
+                                     ------------------------------------
+                                         1)<ol type="A">      A  B  C D  
+                                         2)<ol type="a">     a   b    c   d    
+                                         3)<ol type="I">      I  II  III   IV     V .......
+                                        4)<ol type="i">       i   ii   iii   iv   v.....
+                                       5)<ol type="1">   1,2,3,4,5.......<----- By default 
+
+
+	<html>
+	<head>
+			<title>Order List</title>
+	</head>
+	<body>
+  
+         		<h2 align="center">Order List Example</h2>
+
+
+         		<br><br><br>
+
+         		<ol type="A">  <---we can pass a   i    I    1
+         			<li>BCA</li>
+         			<li>MCA</li>
+         			<li>MBA</li>
+         		</ol>
+
+		</body>
+	</html>
+ 
+
+Nested Order List
+---------------------
+	<html>
+	<head>
+			<title>Order List</title>
+			
+	</head>
+	<body>
+  
+         		<h2 align="center">Nested Order List Example</h2>
+
+
+         		<br><br><br>
+
+         		<ol type="A">  
+         			<li>BCA</li>
+         			<li>MCA</li>
+         			   <ol type="a">
+         			   	   <li>MCA-1</li>
+         			   	   <li>MCA-2</li>
+         			   	   <li>MCA-3</li>
+         			   </ol>
+         			<li>MBA</li>
+         		</ol>
+
+		</body>
+	</html>
+
+
+
+
+
+
+
+
+
+
+                          B) unorder List  tag
+                       ---------------------------
+                            This tag is use when there is no requirement of any order.
+      
+                          Syntax:
+                           ----------
+
+                                 <ul>
+                                      <li>.....</li>
+                                       <li>.....</li>
+                                       <li>.....</li>
+                                 </ul>
+
+
+                            Attributes of <ul>  tag
+                           --------------------------------
+                                   1)<ul type="disc">  <----- by defult
+                                   2)<ul type="circle">  <--- It will set circle 
+                                   3) <ul  type="square"> <----- It will set square box  
+
+                              Example:
+                             -----------
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Unorder List Eample</title>
+</head>
+<body>
+
+	     <h2 align="center" style="color:deeppink;">
+	              Sai Hotel
+	     </h2>
+
+	     <ul type="square">
+	     	 <li>Coffee</li>
+	     	    <ol>
+	     	    	<li>Cold Coffee</li>
+	     	    	<li>Thick Coffee</li>
+	     	    	<li>Hot Coffee</li>
+	     	    </ol>
+	     	 <li>Tea</li>
+	     	 <li>Sandwich</li>
+	     	 <li>Burger</li>
+	     	 <li>Pizza</li>
+
+	     </ul>
+
+</body>
+</html>
+
+
+  How Design Form
+------------------------
+
+
+
+
+
+
+
+                                     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             

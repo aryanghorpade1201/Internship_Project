@@ -1,0 +1,209 @@
+  1/45 day   -  Project-1  Front End Web  Web RJS development
+
+  Certificate :
+  -------------
+    1) Internship Offer Letter
+    2)  Performance Certificate
+    3)  Internship  Completion Certificate
+   
+
+--------------------------------------------------------------------------------------
+  3 Month   ->  Project -1  Front End Web development
+                    -> Project -2   Web + Java + MySQL   development
+
+ Certificate :
+  -------------
+    1) Internship Offer Letter
+   2)  Performance Certificate
+   3)  Internship  Completion Certificate
+   4) Web Development Certificate
+   5) Java Certificate     
+
+
+--------------------------------------------------------------------------------
+
+
+          HTML
+           --------
+           Hypertext mark up lang,  which is used to developed 
+           web page by using following Syntax
+
+            <html>
+                       <head>
+                             <title>......</title>
+                     </head>
+
+                      <body>
+
+                                -----  -------   ----
+                                ----   -------   -----
+                       </body>
+ 
+               </html>
+
+There are two main part  in html Programming.
+
+1)<head>.....</head>
+
+2)<body>.......</body>
+
+
+1)<head>.....</head> :
+-------------------------                                  
+   This tag  is  used to   add  Javascript code, css Code, JQuery Code , Bootstrap  code.
+
+   This tag  contain    <title>  tag.
+
+    <title>......</title>
+    -----------------------    
+      This tag play important role for google Search.  We can add title on the title bar.
+
+     
+
+We Can   download  sublime TextEditor Software for  to Create Web pages.
+
+https://www.sublimetext.com/download
+
+2)<body>.......</body>
+----------------------------
+    This is tag is  main tag in HTML programming , It play imp role to develope struture of web page.
+
+
+       Attributes of <body>  Tag
+       --------------------------------
+          1) bgcolor=Colorname :  It will set    background color to the web page.
+
+          2) text=colorname :  We can set color to text on web page.
+
+          3) background=Imagename :  We can set  background  Image to web page.
+
+
+3) <br>  This tag will break line .
+
+4) <sup>.......</sup>  This tag is used to set data in   a super script format.
+
+                                      eg. This is my  1st   Web Page. 
+
+
+5) <sub>.......</sub>  This tag is used to set data in   a sub script format.
+
+                                      eg. Formula of Water   H2O. 
+
+6) <s>   ......</s>  :  Strike Tag , this tag is used to  display data in strike format.
+
+                                                 Realme  Smart Phone :   Rs 23000  now available at   Rs.20,000/
+7) <i>  Italic
+
+8)  <b>  bold
+
+9)  <u>  underline
+
+10)  Heading tags
+ -----------------------
+    This heading tag play imp role for google  Search.  Ther are  6 headings  tag
+    
+          <h1>........</h1>  Largest
+         <h2>........</h2>  Larger
+          <h3>........</h3>  Large
+          <h4>........</h4>  Small
+         <h5>........</h5>  Smaller
+         <h6>........</h6>  Smallest
+
+ 
+11)<center>....</center>    :  It  will set data at center  position on the web page.
+-----------------------------
+
+12) <hr>  Horizontal Line  :  It will draw   horizontal line on web page.
+
+              Attributes of <HR>  Tag
+              ------------------------------
+                 a) color=ColorName :  It will set color to horizontal  line.
+                 b) size=Number :  It will set size of Horizontal line.
+                 c)  width = Number :  We can set width to Horizontal Line.
+
+
+Practical Example:
+----------------------
+                 Create Folder    on D  Drive   :  " Internship Work "
+
+                                                                         
+
+Program1.html
+----------------
+<!DOCTYPE html>
+<html>
+<head>
+	<title>www.accenture.com</title>
+</head>
+
+<body bgcolor="gold">
+
+	<center>
+		 <h1>Accenture</h1>
+	</center>
+
+	<hr color="deeppink" size="3">
+
+     This is my 1<sup>st</sup>  Web Page.          <br> <br>
+
+     Formula of Water  H<sub>2</sub>O              <br><br>
+
+      <h2>
+          Realme  Smart Phone Rs. <s> 23000 </s> now  available at  Rs.20000/-
+     </h2>  	
+</body>
+</html>
+
+                                      -----------------------------End For Today-------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

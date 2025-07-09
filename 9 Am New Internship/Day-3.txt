@@ -1,0 +1,44 @@
+
+
+	   We can download  sublime :     https://www.sublimetext.com/download
+
+                    
+	Anchor tag   (Most Imp Tag)
+                --------------------------------
+                  This tag  is used to link document on web page.  
+                  Documents can be pdf, java, python, word, excel file.
+
+
+                 Syntax :    <a href="FileName">Message</a>
+
+                  Example:   <a href="resume.pdf"> My Resume  </a>
+
+                                    <a href="program.java">  Download Java Program  </a>
+
+                 Program 
+                ------------
+
+                        Task
+                      ----------
+
+                  For   Team.html :    Copy  All  about.html  data  .  and change Image  
+
+
+                  For Contact.html  :    Company Heading  , hr, 
+
+                                                     Company Address :  You can add Home address
+                                                                                        rutuja@accenture.com
+                                                                                          hr@accenture.com
+                                                                 For More details:  www.accenture.com
+
+
+
+
+
+
+
+
+
+
+
+ 

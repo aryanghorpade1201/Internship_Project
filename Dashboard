@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+	
+	<title>Dashboard</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js">
+</script>
+
+<style>
+   .well{
+        background-color: grey;
+        color: white;
+        font-size: 20px;
+   }
+    
+</style>
+
+
+</head>
+<body>
+
+
+    <div class="container">
+           <h3 class="text-center">HR Department</h3>
+           <div class="row,text-center">
+             <div class="col-sm-3">
+              <div class="well">Administration</div>
+            </div>
+
+            
+            <div class="col-sm-3">
+              <div class="well">Check Out</div>
+            </div>
+
+
+            <div class="col-sm-3">
+              <div class="well">Digital Marketing</div>
+            </div>
+
+
+            <div class="col-sm-3">
+              <div class="well">Lead Generation</div>
+           </div>
+
+           <div class="row,text-center">
+             <div class="col-sm-3">
+              <div class="well">Add Client</div>
+            </div>
+
+            
+            <div class="col-sm-3">
+              <div class="well">Update Client</div>
+            </div>
+
+
+            <div class="col-sm-3">
+              <div class="well">Remove Client</div>
+            </div>
+
+
+            <div class="col-sm-3">
+              <div class="well">Register Client</div>
+           </div>
+    
+    </div>  <!--end of 2nd Row-->
+
+</body>
+</html>
